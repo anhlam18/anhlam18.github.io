@@ -11,7 +11,7 @@ Below are 2 research papers that represent my previous academic work and researc
 
 ### Paper 1
 
-**Title:** Magnetic field role in solar-driven water evaporation of Fe~3O~4/polyvinyl alcohol
+**Title:** Magnetic field role in solar-driven water evaporation of $\mathrm{Fe_3O_4}$/polyvinyl alcohol
 
 This research showed the impact of magnetic strength on the photothermal behavior of the iron oxide-polymer based membranes to increase solar absorption efficiency.
 
