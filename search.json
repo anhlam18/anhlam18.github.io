@@ -1,24 +1,17 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "About this blog"
+    "text": "You can view my CV below or download a copy\nDownload My CV"
   },
   {
-    "objectID": "myprojects.html",
-    "href": "myprojects.html",
-    "title": "myprojects",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello!",
     "section": "",
-    "text": "August 2029"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+    "text": "I’m Anh Lam, a Chemistry PhD student in Samia Lab at CWRU.\nI’m working to become a “hybrid” scientist, handling both experimental and computational projects. If I’m not in the lab or my office working on 10 different projects on nanoparticles, you’ll find me tending to my plants (my growing collection has 12 so far) or doing crafts. I also love pottery making and thrifting. Really, I never run out of things to learn and do!\nThis website is my personal digital garden for sharing research, projects, notes, and things I’m learning.\n5. A Way to Download my CV"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -28,10 +21,24 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hello!",
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
     "section": "",
-    "text": "I’m Anh Lam, a Chemistry PhD student in Samia Lab at CWRU.\nI’m working to become a “hybrid” scientist, handling both experimental and computational projects. If I’m not in the lab or my office working on 10 different projects on nanoparticles, you’ll find me tending to my plants (my growing collection has 12 so far) or doing crafts. I also love pottery making and thrifting. Really, I never run out of things to learn and do!\nThis website is my personal digital garden for sharing research, projects, notes, and things I’m learning.\n#Missing 4. Info on Education, Experiences, and/or Projects AND 5. A Way to Download my CV"
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "myprojects.html",
+    "href": "myprojects.html",
+    "title": "My Projects",
+    "section": "",
+    "text": "Research Projects\nBelow are 2 research papers that represent my previous academic work and research interest.\n\n\nPaper 1\nTitle: Magnetic field role in solar-driven water evaporation of Fe3O4/polyvinyl alcohol\nThis research showed the impact of magnetic strength on the photothermal behavior of the iron oxide-polymer based membranes to increase solar absorption efficiency.\nView Magnetic field role in solar-driven water evaporation of Fe3O4/polyvinyl alcohol paper\n\n\n\nPaper 2\nTitle: Carbonized rice husks as absorber materials for solar-driven steam generation devices\nThis project demonstrated how carbon particles synthesized from rice husk were used as a photothermal material and applied in two solar-driven steam generation systems\nView Carbonized rice husks as absorber materials for solar-driven steam generation devices paper"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
   }
 ]
