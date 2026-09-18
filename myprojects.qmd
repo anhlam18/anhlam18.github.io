@@ -1,6 +1,29 @@
 ---
-title: "myprojects"
+title: "My Projects"
 format: html
 ---
 
-August 2029
+
+
+### Research Projects
+
+Below are 2 research papers that represent my previous academic work and research interest.
+
+### Paper 1
+
+**Title:** Magnetic field role in solar-driven water evaporation of Fe~3O~4/polyvinyl alcohol
+
+This research showed the impact of magnetic strength on the photothermal behavior of the iron oxide-polymer based membranes to increase solar absorption efficiency.
+
+[View Magnetic field role in solar-driven water
+evaporation of Fe~3O~4/polyvinyl alcohol paper](papers/solarpaper.pdf){target="_blank"}
+
+---
+
+### Paper 2
+
+**Title:** Carbonized rice husks as absorber materials for solar-driven steam generation devices
+
+This project demonstrated how carbon particles synthesized from rice husk were used as a photothermal material and applied in two solar-driven steam generation systems 
+
+[View Carbonized rice husks as absorber materials for solar-driven steam generation devices paper](papers/ricehuskpaper.pdf){target="_blank"}

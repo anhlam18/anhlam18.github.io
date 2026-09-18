@@ -13,22 +13,10 @@ about:
       href: https://linkedin.com/in/panh-lam/
 ---
 
-
 I'm Anh Lam, a Chemistry PhD student in Samia Lab at CWRU.
 
 I'm working to become a "hybrid" scientist, handling both experimental and computational projects. If I'm not in the lab or my office working on 10 different projects on nanoparticles, you'll find me tending to my plants (my growing collection has 12 so far) or doing crafts. I also love pottery making and thrifting. Really, I never run out of things to learn and do!
 
-This website is my personal digital garden for sharing research,
-projects, notes, and things I'm learning. 
+This website is my personal digital garden for sharing research, projects, notes, and things I'm learning.
 
-#Missing 4. Info on Education, Experiences, and/or Projects AND 5. A Way to Download my CV
-
----
-
----
-
----
-
----
-
----
+5\. A Way to Download my CV

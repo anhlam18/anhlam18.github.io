@@ -10,8 +10,8 @@ website:
         text: About Me
       - href: myprojects.qmd
         text: My Projects
-      - href: contact.qmd
-        text: Contact
+      - href: cv.qmd
+        text: My CV
 
     
     right:
