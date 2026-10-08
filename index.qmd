@@ -23,6 +23,7 @@ This website is my personal digital garden for sharing research, projects, notes
 
 ### Outdoor Time Dashboard
 
+
 Explore my interactive Outdoor Time Dashboard,
 which visualizes outdoor activity data.
 
